@@ -1,7 +1,7 @@
 # git_study
 Quick Fix
-first!!!! change
+first!!!! change!!!!!!!!!!!!!!!!!!!
 
 #
 
-second!!!
+second!!!!!!!!!!!
